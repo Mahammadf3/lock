@@ -1,0 +1,16 @@
+.card{
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:center;
+        background-image: linear-gradient( #3c2940, #0b0c1e);
+        height: 100vh;
+     
+}
+.p{
+    color: #ffffff;
+}
+.but{
+    cursor: pointer;
+}
